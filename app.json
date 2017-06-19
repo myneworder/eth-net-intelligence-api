@@ -18,7 +18,8 @@
       "CONTACT_DETAILS" : "",
       "WS_SERVER"       : "wss://rpc.ethstats.net",
       "WS_SECRET"       : "see http://forum.ethereum.org/discussion/2112/how-to-add-yourself-to-the-stats-dashboard-its-not-automatic",
-      "VERBOSITY"       : 2
+      "VERBOSITY"       : 2,
+      "TENDERMINT_RPC_PORT" : "46657"
     }
   }
 ]
