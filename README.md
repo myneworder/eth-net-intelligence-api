@@ -35,7 +35,7 @@ node scripts/configure.js
 		"LISTENING_PORT"  : "30303", // eth listening port (only used for display)
 		"INSTANCE_NAME"   : "", // whatever you wish to name your node
 		"CONTACT_DETAILS" : "", // add your contact details here if you wish (email/skype)
-		"WS_SERVER"       : "wss://eth-netstats-venus.herokuapp.com/", // path to eth-netstats WebSockets api server
+		"WS_SERVER"       : "wss://ethermint-monitor-venus.herokuapp.com/", // path to eth-netstats WebSockets api server
 		"WS_SECRET"       : "Check out our slack channel", // WebSockets api server secret used for login
 		"VERBOSITY"       : 2 // Set the verbosity (0 = silent, 1 = error, warn, 2 = error, warn, info, success, 3 = all logs)
 	}
